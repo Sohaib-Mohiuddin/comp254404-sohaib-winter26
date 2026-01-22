@@ -20,7 +20,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package com.opsdevelop.teaching.Lab2Exercises.linkedlists;
+package ex2;
 
 /**
  * A basic doubly linked list implementation.
