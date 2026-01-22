@@ -230,7 +230,6 @@ public class SinglyLinkedList<E> implements Cloneable {
 	  list.addLast("BOS");
 	  //
 	  list.addFirst("LAX");
-      list.addLast("DFW");
 	  System.out.println(list);
 	  //
   }
